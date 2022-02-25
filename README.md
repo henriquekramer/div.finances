@@ -12,7 +12,7 @@ https://dev-finance5.netlify.app/
 
 ## 💻 Projeto
 
-O dev.finance$ foi um projeto desenvolvido na maratona01 da RocketSeat. O intuito do projeto é fazer uma página em que o usuário possa registrar suas atividades financeiras e ter uma visualização do somatório dos seus gastos, despesas e seu saldo final. As transições ficam salvar no navegador do usuário.
+O dev.finance$ foi um projeto desenvolvido na maratona01 da RocketSeat. O intuito do projeto é fazer uma página em que o usuário possa registrar suas atividades financeiras e ter uma visualização do somatório dos seus gastos, despesas e seu saldo final. As transições ficam salvas no navegador do usuário (local storage).
 
 ## 🚀 Tecnologias
 
