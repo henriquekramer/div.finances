@@ -5,9 +5,9 @@
 Acesse em:
 https://dev-finance5.netlify.app/
 
-<h1>Desktop</h1>
+<h2>Desktop & Mobile</h2>
 <p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/97106134/155139520-ebc4fd1e-27f0-4e45-9c5f-6db6de87d85b.JPG" width="100%">
+  <img alt="" src="https://user-images.githubusercontent.com/97106134/159055789-5a868cbe-7bea-4666-b6f4-35f893c2ad18.PNG" width="100%">
 </p>
 
 ## 💻 Projeto
